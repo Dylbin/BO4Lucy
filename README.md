@@ -96,6 +96,15 @@ Contributions by the community are welcome, as are Bug Fixes, and suggestions. I
 
 ## Changelog
 
+Version 1.3.1
+<details>
+	<summary>
+		Version 1.3.1
+	</summary>
+	
+	- Includes alot of bugfixes by @TheUnknownCod3r and @MrFawkes1337
+	- Also added bugfixes for godmode and unlock all, detailed in this [Forum Post on UC](https://www.unknowncheats.me/forum/call-of-duty-black-ops-4-a/491600-bo4-lucy-gsc-fixes.html)
+</details>
 Version 1.3
 <details>
 	<summary>
